@@ -80,7 +80,6 @@ namespace _9_MODULE.HomeWork
             return base.CalculateAnnualSalary() + (linesOfCodePerDay * 0.1 * 250); //250 рабочих дней в году
         }
     }
-
     class Program
     {
         static void Main()
